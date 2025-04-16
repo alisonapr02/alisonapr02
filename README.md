@@ -4,10 +4,6 @@
 <!-- Efeito de digitação atualizado com as novas informações em português -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+ALISON.+;BEM-VINDO+AO+MEU+GITHUB!;SOU+UM+PROFISSIONAL+DE+TI;CERTIFICAÇÃO+EM+SEGURANÇA+DE+REDE;ANÁLISE+DE+DADOS+%7C+CIBERSEGURANÇA;EMITIDAS+PELA+GOOGLE+E+CISCO)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alisonapr02&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=2C2F33" alt="Alison Paulo Rebouças github stats"/> 
-  
-</div>
 
 <!-- Gráfico de Atividades -->
 [![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=alisonapr02&bg_color=2C2F33&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
