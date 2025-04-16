@@ -2,7 +2,7 @@
 <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header"/>
 
 <!-- Efeito de digitação atualizado com as novas informações em português -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+ALISON.+;BEM-VINDO+AO+MEU+GITHUB!;SOU+UM+PROFISSIONAL+DE+TI;CERTIFICAÇÃO+EM+SEGURANÇA+DE+REDE;ANÁLISE+DE+DADOS+%7C+CIBERSEGURANÇA;EMITIDAS+PELA+GOOGLE+E+CISCO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+ALISON.+;BEM-VINDO+AO+MEU+GITHUB!;SOU+UM+PROFISSIONAL+DE+TI+COM+CERTIFICAÇÃO+EM...;+SEGURANÇA+DE+REDE+%7C+SUPORTE+DE+TI;ANÁLISE+DE+DADOS+%7C+CIBERSEGURANÇA;EMITIDAS+PELA+GOOGLE+E+CISCO.;+E+AGUARDE+QUE+VEM+MAIS+POR+AI!!!)](https://git.io/typing-svg)
 
 
 <!-- Gráfico de Atividades -->
