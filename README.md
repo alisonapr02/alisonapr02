@@ -10,7 +10,11 @@
 
 <div style="color:#00FF00; font-family: 'Courier New', Courier, monospace;">
   <p align="justify">
-    Sou um profissional apaixonado por tecnologia da informação, com experiência em análise de dados, segurança da informação, suporte de TI, cibersegurança, segurança de redes, manutenção de equipamentos de informática e atuação como instrutor de informática. Tenho competência em SQL, DBA, Azure, Git, C#, Java, Python, JavaScript, HTML, PHP e CSS. Além disso, possuo conhecimentos em Microsoft Office, Windows Server, Linux e macOS. Estou apto a exercer funções que demandam habilidades técnicas e de comunicação. Valorizo o trabalho em equipe e sou aberto ao diálogo, o que me permite colaborar de forma eficaz com meus colegas e alcançar resultados positivos.
+    Sou profissional da área de Tecnologia da Informação com mais de 5 anos de experiência, atuando principalmente em suporte técnico, manutenção de equipamentos, redes, sistemas e infraestrutura de TI.
+Atuei como Técnico em Manutenção de Informática e Analista de TI, sendo responsável por instalações, manutenção preventiva e corretiva de computadores, periféricos e redes, além do atendimento a chamados de hardware e software. Também tive a responsabilidade de gerenciar sistemas, dados e apoiar a logística tecnológica das empresas, garantindo estabilidade, organização e melhor desempenho operacional.
+Atualmente, atuo como Instrutor de Informática, ministrando treinamentos em sistemas operacionais (Windows, Linux e macOS), softwares, manutenção de computadores, desenvolvimento web, HTML, CSS e introdução à programação com Python e C#, o que fortaleceu minhas habilidades técnicas e de comunicação.
+Possuo formação técnica em Redes Pela Cisco e Técnico em Defesa de Redes pelo IFPB, estou cursando Gestão de Tecnologia da Informação pela UNIESP, e tenho certificações nas áreas de Cybersecurity, IT Support e Data Analysis, além de conhecimentos em SQL/DBA, Git, Azure, Java e outras linguagens de programação.
+Me considero um profissional com forte base técnica e experiência prática em ambientes reais de produção. Ao longo da minha trajetória, atuei tanto em operações técnicas quanto em gestão e suporte a sistemas, além de treinamento de usuários e equipes. Tenho facilidade em lidar com ambientes Windows, Linux e macOS, redes, segurança da informação, bancos de dados SQL e resolução de problemas, sempre buscando boas práticas, organização e melhoria contínua.
   </p>
 </div>
 
