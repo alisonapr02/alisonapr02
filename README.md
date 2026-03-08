@@ -6,7 +6,7 @@
 
 
 <!-- Gráfico de Atividades -->
-[![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=alisonapr02&bg_color=2C2F33&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=alisonapr02&bg_color=2C2F33&color=808080&line=ffffff&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="color:#00FF00; font-family: 'Courier New', Courier, monospace;">
   <p align="justify">
